@@ -33,7 +33,7 @@ Feel free to ask me about:
 
 ### 📫 How to reach me ...
 - **Email**: [tarundalai2000@gmail.com](mailto:tarundalai2000@gmail.com)
-- **LinkedIn**: [linkedin.com/in/tarun-dalai-674573138](https://www.linkedin.com/in/tarun-dalai-674573138)
+- **LinkedIn**: [linkedin.com/in/tarundalai1999](https://www.linkedin.com/in/tarundalai1999)
 - **GitHub**: [github.com/tarundalai1999](https://github.com/tarundalai1999)
 - **Facebook**: [https://www.facebook.com/Tarun.boss.1999/](https://www.facebook.com/Tarun.boss.1999/)
 - **Instagram**: [https://www.instagram.com/_tarun_dalai_001_/](https://www.instagram.com/_tarun_dalai_001_/)

@@ -73,7 +73,7 @@ When I'm not immersed in DevOps projects, I love:
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/>
   <img src="https://img.icons8.com/plasticine/100/000000/bash.png" alt="Shell Scripting" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/prometheus.png" alt="Prometheus" width="40" height="40"/>
+  <img src="https://img.icons8.com/windows/32/000000/prometheus.png" alt="Prometheus" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/grafana.png" alt="Grafana" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/ansible.png" alt="Ansible" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/slack-new.png" alt="Slack" width="40" height="40"/>

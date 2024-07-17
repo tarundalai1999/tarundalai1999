@@ -73,24 +73,14 @@ When I'm not immersed in DevOps projects, I love:
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/>
   <img src="https://img.icons8.com/plasticine/100/000000/bash.png" alt="Shell Scripting" width="40" height="40"/>
-  <img src="https://img.icons8.com/windows/32/000000/prometheus.png" alt="Prometheus" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/grafana.png" alt="Grafana" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/ansible.png" alt="Ansible" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/slack-new.png" alt="Slack" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/jira.png" alt="Jira" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="GitLab" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-cloud.png" alt="Azure DevOps" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="GCP" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/groovy.png" alt="Groovy" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/powershell.png" alt="PowerShell" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/elastic.png" alt="ELK Stack" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/datadog.png" alt="Datadog" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/chef.png" alt="Chef" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/puppet.png" alt="Puppet" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/saltstack.png" alt="SaltStack" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/sonarqube.png" alt="SonarQube" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/trivy.png" alt="Trivy" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>

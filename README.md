@@ -85,7 +85,6 @@ When I'm not immersed in DevOps projects, I love:
   <img src="https://img.icons8.com/color/48/000000/groovy.png" alt="Groovy" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/powershell.png" alt="PowerShell" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/elastic.png" alt="ELK Stack" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/splunk.png" alt="Splunk" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/datadog.png" alt="Datadog" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/chef.png" alt="Chef" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/puppet.png" alt="Puppet" width="40" height="40"/>
@@ -96,4 +95,5 @@ When I'm not immersed in DevOps projects, I love:
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/confluence.png" alt="Confluence" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-teams.png" alt="Microsoft Teams" width="40" height="40
+  <img src="https://img.icons8.com/color/48/000000/microsoft-teams.png" alt="Microsoft Teams" width="40" height="40"/>
+</p>

@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile! I'm **Tarun Dalai**, a passionate Junior DevOps Engineer based in Hyderabad, India. With nearly 2 years of hands-on experience, I specialize in CI/CD, cloud services, and containerization.
+Welcome to my GitHub profile! I'm **Tarun Dalai**, a passionate Junior DevOps Engineer based in Hyderabad, India. As a fresher, I specialize in CI/CD, cloud services, and containerization.
 
 ### 🔭 I’m currently working on ...
 At **Genpact**, I'm enhancing CI/CD pipelines and automating infrastructure provisioning. My current projects involve:
@@ -62,20 +62,38 @@ When I'm not immersed in DevOps projects, I love:
 
 ## 🔧 Technologies & Tools
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
-Feel free to explore my repositories and reach out if you'd like to collaborate on exciting projects or discuss DevOps practices!
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/000000/azure-1.png" alt="Azure" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/terraform.png" alt="Terraform" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" width="40" height="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/>
+  <img src="https://img.icons8.com/plasticine/100/000000/bash.png" alt="Shell Scripting" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/prometheus.png" alt="Prometheus" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/grafana.png" alt="Grafana" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/ansible.png" alt="Ansible" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/slack-new.png" alt="Slack" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/jira.png" alt="Jira" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="GitLab" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-cloud.png" alt="Azure DevOps" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="GCP" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/groovy.png" alt="Groovy" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/powershell.png" alt="PowerShell" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/elastic.png" alt="ELK Stack" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/splunk.png" alt="Splunk" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/datadog.png" alt="Datadog" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/chef.png" alt="Chef" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/puppet.png" alt="Puppet" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/saltstack.png" alt="SaltStack" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/sonarqube.png" alt="SonarQube" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/trivy.png" alt="Trivy" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/confluence.png" alt="Confluence" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-teams.png" alt="Microsoft Teams" width="40" height="40

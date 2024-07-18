@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile! I'm **Tarun Dalai**, a passionate Junior DevOps Engineer based in Hyderabad, India. As a fresher, I specialize in CI/CD, cloud services, and containerization.
+Welcome to my GitHub profile! I'm **Tarun Dalai**, a Process Associate - Cloud Engineer based in Hyderabad, India. I am passionate about transitioning into a DevOps or Cloud DevOps Engineer role. I specialize in CI/CD, cloud services, and containerization.
 
 ### 🔭 I’m currently working on ...
-At **Genpact**, I'm enhancing CI/CD pipelines and automating infrastructure provisioning. My current projects involve:
-- **CI/CD Pipelines**: Using Jenkins and GitLab CI to streamline code deployment processes.
-- **Infrastructure Automation**: Leveraging Terraform and AWS CloudFormation to automate infrastructure setup and management.
-- **Container Orchestration**: Utilizing Docker and Kubernetes to deploy and manage applications efficiently.
+At **Genpact**, I'm streamlining operational workflows and automating infrastructure provisioning. My current projects involve:
+- **CI/CD Pipelines**: Using Jenkins and GitLab CI to enhance deployment efficiency.
+- **Infrastructure Automation**: Leveraging Terraform and AWS CloudFormation to ensure consistent and repeatable infrastructure deployments.
+- **Container Orchestration**: Utilizing Docker and Kubernetes for scalable and efficient application deployments.
 
 ### 🌱 I’m currently learning ...
 I'm diving deeper into:
@@ -34,7 +34,6 @@ Feel free to ask me about:
 ### 📫 How to reach me ...
 - **Email**: [tarundalai2000@gmail.com](mailto:tarundalai2000@gmail.com)
 - **LinkedIn**: [linkedin.com/in/tarundalai1999](https://www.linkedin.com/in/tarundalai1999)
-- **GitHub**: [github.com/tarundalai1999](https://github.com/tarundalai1999)
 - **Facebook**: [https://www.facebook.com/Tarun.boss.1999/](https://www.facebook.com/Tarun.boss.1999/)
 - **Instagram**: [https://www.instagram.com/_tarun_dalai_001_/](https://www.instagram.com/_tarun_dalai_001_/)
 - **X**: [https://x.com/BossTarun1999/](https://x.com/BossTarun1999/)
@@ -71,7 +70,6 @@ When I'm not immersed in DevOps projects, I love:
   <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" width="40" height="40"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/>
   <img src="https://img.icons8.com/plasticine/100/000000/bash.png" alt="Shell Scripting" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/grafana.png" alt="Grafana" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/ansible.png" alt="Ansible" width="40" height="40"/>

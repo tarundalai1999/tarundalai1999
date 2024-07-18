@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile! I'm **Tarun Dalai**, a Process Associate - Cloud Engineer based in Hyderabad, India. I am passionate about transitioning into a DevOps or Cloud DevOps Engineer role. I specialize in CI/CD, cloud services, and containerization.
+Welcome to my GitHub profile! I'm **Tarun Dalai**, a Process Associate - Cloud Engineer based in **Genpact**. I am passionate about transitioning into a DevOps or Cloud DevOps Engineer role. I specialize in CI/CD, cloud services, and containerization.
 
 ### 🔭 I’m currently working on ...
 At **Genpact**, I'm streamlining operational workflows and automating infrastructure provisioning. My current projects involve:

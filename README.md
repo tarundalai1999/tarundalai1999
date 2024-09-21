@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile! I'm **Tarun Dalai**, a Process Associate - Cloud Engineer based in **Genpact**. I am passionate about transitioning into a DevOps or Cloud DevOps Engineer role. I specialize in CI/CD, cloud services, and containerization.
+Welcome to my GitHub profile! I'm **Tarun Dalai**, a Process Associate - WFM - Reporting Analyst based in **Genpact**. I am passionate about transitioning into a DevOps or Cloud DevOps Engineer role. I specialize in CI/CD, cloud services, and containerization.
 
 ### 🔭 I’m currently working on ...
 At **Genpact**, I'm streamlining operational workflows and automating infrastructure provisioning. My current projects involve:
@@ -34,7 +34,7 @@ Feel free to ask me about:
 ### 📫 How to reach me ...
 - **Email**: [tarundalai2000@gmail.com](mailto:tarundalai2000@gmail.com)
 - **LinkedIn**: [linkedin.com/in/tarundalai1999](https://www.linkedin.com/in/tarundalai1999)
-- **Facebook**: [https://www.facebook.com/Tarun.boss.1999/](https://www.facebook.com/Tarun.boss.1999/)
+- **Facebook**: [https://www.facebook.com/Tarun.Dalai.1999/](https://www.facebook.com/Tarun.boss.1999/)
 - **Instagram**: [https://www.instagram.com/_tarun_dalai_001_/](https://www.instagram.com/_tarun_dalai_001_/)
 - **X**: [https://x.com/BossTarun1999/](https://x.com/BossTarun1999/)
 

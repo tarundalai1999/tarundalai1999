@@ -1,35 +1,91 @@
-## Hi there 👋
+## Hi there 👋  
 
-Welcome to my GitHub profile! I'm **Tarun Dalai**, a Process Developer - Senior Reporting Analyst based in **Genpact**. I am passionate about transitioning into a DevOps or Cloud DevOps Engineer role. I specialize in CI/CD, cloud services, and containerization.
+Welcome to my GitHub! I'm a **DevOps Engineer** passionate about automating workflows, building scalable cloud infrastructure, and optimizing deployment pipelines. I thrive on making systems more reliable and efficient by leveraging **CI/CD, Kubernetes, Terraform, AWS, and DevSecOps** practices.
 
-### 🔭 I’m currently working on ...
-At **Genpact**, I'm streamlining operational workflows and automating infrastructure provisioning. My current projects involve:
-- **CI/CD Pipelines**: Using Jenkins and GitLab CI to enhance deployment efficiency.
-- **Infrastructure Automation**: Leveraging Terraform and AWS CloudFormation to ensure consistent and repeatable infrastructure deployments.
-- **Container Orchestration**: Utilizing Docker and Kubernetes for scalable and efficient application deployments.
+---
 
-### 🌱 I’m currently learning ...
-I'm diving deeper into:
-- **Advanced Kubernetes Techniques**: Exploring service meshes, Kubernetes operators, and custom resource definitions (CRDs).
-- **AI/ML Integration in DevOps**: Investigating how to incorporate AI/ML models into DevOps workflows for predictive analytics and automation.
-- **Enhanced Monitoring and Logging**: Experimenting with new tools to improve system observability and performance monitoring.
+### 🔭 I’m currently working on  
+- **Optimizing CI/CD Pipelines**: Designing and implementing automated deployment workflows using **Jenkins, GitHub Actions, GitLab CI/CD, and Azure DevOps** to ensure smooth software delivery with minimal downtime.  
+- **Cloud Infrastructure Management**: Managing and provisioning cloud resources in **AWS and Azure** using **Terraform, AWS CloudFormation, and Ansible**, reducing manual intervention and ensuring high availability.  
+- **Containerization & Orchestration**: Deploying and managing containerized applications with **Docker** and orchestrating them efficiently using **Kubernetes** (EKS, AKS, and Helm) to improve scalability and reliability.  
+- **System Monitoring & Observability**: Implementing real-time monitoring and alerting systems using **Prometheus, Grafana, ELK Stack, and AWS CloudWatch** to ensure high system availability and quick issue resolution.  
+- **Security & Compliance in DevOps (DevSecOps)**: Integrating security tools like **SonarQube and Trivy** into CI/CD pipelines, conducting vulnerability scans, and enforcing compliance-as-code to improve application security.  
 
-### 👯 I’m looking to collaborate on ...
-I’m eager to collaborate on:
-- **Open-Source DevOps Projects**: Especially those focused on cloud automation, infrastructure as code, and container orchestration.
-- **Community Contributions**: Projects that aim to improve DevOps practices and tools for the community.
+---
 
-### 🤔 I’m looking for help with ...
-I'm seeking guidance and collaboration on:
-- **AI/ML in DevOps**: Integrating machine learning models into CI/CD pipelines and automating predictive maintenance.
-- **New Monitoring Tools**: Enhancing my toolkit with the latest monitoring and logging solutions to improve system reliability and performance.
+### 🌱 I’m currently learning  
+- **Advanced Kubernetes Concepts**: Exploring **Istio (service mesh), Helm (package management), and ArgoCD (GitOps continuous delivery)** to optimize Kubernetes-based microservices deployments.  
+- **DevSecOps Best Practices**: Strengthening my knowledge of security automation, vulnerability scanning, and compliance enforcement with **SonarQube, Trivy, and HashiCorp Vault**.  
+- **Cloud Cost Optimization & Performance Tuning**: Learning strategies to optimize cloud spending while maintaining performance, using **AWS Cost Explorer, Auto-scaling, and Load Balancing techniques**.  
+- **AI & Machine Learning in DevOps**: Investigating how AI/ML can be integrated into DevOps pipelines for **predictive monitoring, anomaly detection, and self-healing infrastructure**.  
 
-### 💬 Ask me about ...
-Feel free to ask me about:
-- **CI/CD Pipelines**: Best practices and tools for continuous integration and continuous deployment.
-- **Containerization**: Using Docker and Kubernetes for efficient application deployment and management.
-- **Infrastructure as Code**: Automating infrastructure provisioning with Terraform and AWS CloudFormation.
-- **Cloud Services**: Deploying and managing applications on AWS and Azure.
+---
+
+### 👯 I’m looking to collaborate on  
+- **DevOps & Cloud Infrastructure Projects**: Working together on **automation, CI/CD improvements, and scalable deployments**.  
+- **CI/CD Pipeline Enhancements**: Improving software delivery pipelines for **faster, more reliable, and secure releases**.  
+- **Kubernetes & Microservices Deployment**: Helping teams containerize and orchestrate applications effectively.  
+- **Cloud Security & DevSecOps Implementations**: Enhancing security measures in DevOps workflows.  
+
+---
+
+### 🤔 I’m looking for help with  
+- **Optimizing Kubernetes Performance**: Best practices for handling large-scale applications with **Istio, Kubernetes Operators, and Horizontal Pod Autoscaling (HPA)**.  
+- **Cloud Cost Management**: Strategies to **reduce AWS/Azure spending while maintaining performance and reliability**.  
+- **AI-driven Predictive Monitoring**: Exploring how **AI and ML** can be used to **automate incident detection and response in cloud environments**.  
+
+---
+
+### 💬 Ask me about  
+- **CI/CD Pipeline Optimization**: Automating deployments with **Jenkins, GitHub Actions, GitLab CI/CD, and Azure DevOps Pipelines**.  
+- **Infrastructure as Code (IaC)**: Managing cloud environments with **Terraform, AWS CloudFormation, and Ansible**.  
+- **Kubernetes & Docker for Scalable Applications**: Best practices for **containerization and orchestration**.  
+- **Cloud Technologies (AWS & Azure)**: Optimizing cloud resources, **auto-scaling, and load balancing strategies**.  
+- **Monitoring & Logging**: Implementing **Prometheus, Grafana, ELK Stack, and AWS CloudWatch** for system observability.  
+- **Security in DevOps (DevSecOps)**: Enhancing security with **SonarQube, Trivy, IAM policies, and compliance automation**.  
+
+---
+
+### 📌 Projects  
+🔹 **[E-Commerce Website Deployment with Kubernetes](https://github.com/tarundalai1999/Microservices)**  
+➡️ **Containerized the application** using Docker and deployed it on a **Kubernetes cluster** for scalability.  
+➡️ Automated **CI/CD workflows** using Jenkins and GitHub Actions, reducing deployment time by 35%.  
+➡️ Implemented **Horizontal Pod Autoscaling (HPA)** to handle peak traffic loads.  
+➡️ Set up **Prometheus and Grafana for monitoring**, enabling real-time performance tracking.  
+
+🔹 **[3-Tier Web Application on AWS](https://github.com/tarundalai1999/3-Tier-Web-Application)**  
+➡️ Designed and deployed a **3-tier architecture (web, application, database)** on **AWS EC2, RDS, and S3**.  
+➡️ Automated infrastructure provisioning using **Terraform**, reducing setup time by 30%.  
+➡️ Configured **Auto-scaling and Load balancing** to handle high traffic, ensuring **95% uptime**.  
+
+🔹 **[Board Game Deployment with GitHub Actions](https://github.com/tarundalai1999/Boardgame)**  
+➡️ Provisioned and managed **AWS EC2 instances and Kubernetes clusters** for infrastructure management.  
+➡️ Automated **CI/CD workflows using GitHub Actions**, reducing deployment time by 15%.  
+➡️ Integrated **Prometheus and Grafana** for monitoring, achieving real-time visibility into application performance.  
+➡️ Improved **resource utilization by 10%** through actionable insights from monitoring dashboards.  
+
+---
+
+### 🏆 Achievements  
+✅ **3× Cheers Award - Bronze** for delivering reports on time and optimizing processes, reducing manual effort by 25%.  
+✅ **Reduced Deployment Time by 30%** with optimized CI/CD workflows.  
+✅ **Improved System Reliability by 20%** by implementing proactive monitoring strategies.  
+✅ **Achieved 95% Uptime** for containerized applications using Kubernetes, Docker, and AWS.  
+✅ **Automated Infrastructure Provisioning** using Terraform, cutting manual intervention by 30%.  
+
+---
+
+### 📜 Certifications  
+📌 **DevOps – Beginner – Genpact**  
+📌 **Generative AI – Genpact**  
+📌 **Cloud Computing: Understanding Core Concepts – NASBA (LinkedIn Learning)**  
+📌 **Cloud Storage Concepts – LinkedIn Learning**  
+
+---
+
+🚀 **I’m always eager to learn, collaborate, and contribute to exciting DevOps projects! Feel free to connect with me.**  
+
+💡 **Let’s build something amazing together!**  
 
 ### 📫 How to reach me ...
 - **Email**: [tarundalai2000@gmail.com](mailto:tarundalai2000@gmail.com)
